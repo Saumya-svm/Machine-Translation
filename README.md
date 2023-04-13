@@ -10,3 +10,4 @@ To-Do
 - [ ] Figure out why custom training takes relatively more time to converge
 - [ ] Create a model such that we can use tensorflow's in built training on a custom model and not perform custom training
 - [X] Adding Attention layer
+- [ ] Use transformers
